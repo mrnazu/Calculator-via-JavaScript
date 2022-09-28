@@ -1,7 +1,6 @@
-<h1 align="center">Calculator App Project via JavaScript, HTML and CSS</h1>
+<h1 align="center">Calculator App Project ➕ ➖✖️➗</h1>
 
-## Hello Developers and Hackers i'm Nazu from Ethiopia, 
-## Today I made A basic Calculator App Developed using HTML , CSS and JavaScript.
+## Hello Developers and Hackers i'm Nazu from Ethiopia,Today I made A basic Calculator App Developed using HTML , CSS and JavaScript.
 
 ### How to contribute :
 
